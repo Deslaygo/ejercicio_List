@@ -1,0 +1,6 @@
+c:\users\javier\documents\visual studio 2017\Projects\Ejercicios_bloque_ll_colecciones\ejercicio_List\bin\Debug\ejercicio_List.exe.config
+c:\users\javier\documents\visual studio 2017\Projects\Ejercicios_bloque_ll_colecciones\ejercicio_List\bin\Debug\ejercicio_List.exe
+c:\users\javier\documents\visual studio 2017\Projects\Ejercicios_bloque_ll_colecciones\ejercicio_List\bin\Debug\ejercicio_List.pdb
+c:\users\javier\documents\visual studio 2017\Projects\Ejercicios_bloque_ll_colecciones\ejercicio_List\obj\Debug\ejercicio_List.csprojResolveAssemblyReference.cache
+c:\users\javier\documents\visual studio 2017\Projects\Ejercicios_bloque_ll_colecciones\ejercicio_List\obj\Debug\ejercicio_List.exe
+c:\users\javier\documents\visual studio 2017\Projects\Ejercicios_bloque_ll_colecciones\ejercicio_List\obj\Debug\ejercicio_List.pdb
