@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace ejercicio_List
 {
-     public class Perro
+    public class Perro
     {
-       
     }
 }
