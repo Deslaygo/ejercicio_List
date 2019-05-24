@@ -14,5 +14,11 @@ namespace ejercicio_List
         //Encapsulación
         public string Nombre { get => nombre; set => nombre = value; }
         public int Edad { get => edad; set => edad = value; }
+        //Constructor
+        public Perro()
+        {
+            nombre = "";
+            edad = 0;
+        }
     }
 }
